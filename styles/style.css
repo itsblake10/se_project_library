@@ -289,6 +289,7 @@
 
 .card {
   background-color: #fff;
+  display: flex;
   border-radius: 6px;
   padding: 32px 40px 20px 32px;
   box-sizing: border-box;
@@ -300,8 +301,6 @@
 .card__content {
   width: 100%;
   height: 100%;
-  display: flex;
-  flex-direction: column;
 }
 
 .card__title {
