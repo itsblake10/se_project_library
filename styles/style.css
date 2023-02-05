@@ -282,10 +282,9 @@
   flex-wrap: wrap;
   justify-content: center;
   max-width: 760px;
-  row-gap: 40px;
-  column-gap: 40px;
-  padding-left: 0px;
-  margin: 68px auto auto auto;
+  gap: 40px;
+  padding: 0;
+  margin: 68px auto 0;
 }
 
 .card {
